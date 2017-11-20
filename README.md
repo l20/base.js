@@ -36,3 +36,11 @@ $().extend('pluginName', function () {
 ## 博客demo简介
 实现功能：登录、注册、注销、表单验证、皮肤设置、图片延迟加载、文章发布、导航切换动画。
 ### 兼容IE6。
+
+### 截屏
+* 主页：
+<img src="https://github.com/l20/base.js/blob/master/screenshot/home.png" alt="home">
+* 注册：
+<img src="https://github.com/l20/base.js/blob/master/screenshot/reg.png" alt="register">
+* 登录：
+<img src="https://github.com/l20/base.js/blob/master/screenshot/login.png" alt="login">
